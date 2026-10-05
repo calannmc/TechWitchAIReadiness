@@ -1,0 +1,11 @@
+{
+  "name": "cx-ai-fit-assessment",
+  "version": "1.0.0",
+  "description": "A fit-before-you-buy assessment for contact centre AI platforms.",
+  "private": true,
+  "scripts": {
+    "test": "node test/engine.test.js",
+    "start": "npx --yes serve ."
+  },
+  "license": "UNLICENSED"
+}
